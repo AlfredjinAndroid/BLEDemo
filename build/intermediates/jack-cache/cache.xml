@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\admin\.android\build-cache\b4ab72aa6e3cc7d7a8a08d00339acc0f816b89b1\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-86dc72a0b36d763837554a8e0a6dae1c8616d763.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.android\build-cache\6f6da4107139e3f392e68aea78232ca194212da9\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-55abed3328c0e9747ca31a0a387f100753b30201.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.android\build-cache\a98b8304e4e0f63b8968880046db6df626f434f5\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="7ea24776dab17d486ffe64ff6ec2b3a9781ae03a">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f3eb91d632b1cc9e0dace94a8bc94eb4f102e885.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.android\build-cache\2f21984b4834dc7d812795a37e1c6c028510c810\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-87675ac8c8baadd81fa591539e1b9b04dfd90bb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.android\build-cache\2010c9ea592c45f271f104b87dbcfe421e4a6d5f\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7b29cac48c2fc716dad2a8b46d4ece1173b58d9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.android\build-cache\2c9aa871ad9aa9ed7001eb10e3bdadb2094a67bf\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-67f937759a4272912e5af5f39d8d39934368fa13.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.android\build-cache\5361edc046b1ab0cd0523d2a2b7b8968bc686c79\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6c5cab7f0ff4945b92e6d750bbdc0b4c9d1008d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.android\build-cache\1e87417191a4eb6378d41e21b3a20effad17837f\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b87d8bf36878eb02cfe006c528cb3bd058bbe2be.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\platforms\android-26\optional\org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="d5b8c556427a60ed5f7f0abc415555de7bbba1ad">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-27ee151f9cc69d3c6fccf12afe9827ddf1fd24a1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-26.0.0-alpha1-b343fdeb5b576404e318a5a0dffcf1d09ebc4899.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\platforms\android-26\android.jar"
+        revision="25.0.3"
+        sha1="18eaee6ff2a1c15c603daafb41277ea9376f30b5">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-39f7479396f48e1d30c76729510d2ca41d4cde4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.android\build-cache\71868b7f16590ccda49596920c355e9f8ab0063b\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-faa275c47738d45f946ba1e607cbecf7c8c45b3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.android\build-cache\40d9387fedc6d4c6271e741d5d149121ee58436d\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-fb38cf14e13d6fa9d0d8838bbef48ccadc19c321.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-7746369fa27cceb525736b4267461e18a05a6d43.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.android\build-cache\573f5c262a4cfac913d53337d45352f80bcd2929\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\workspace\android_workspace\BLEDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d7c395c4aa0d161d580c0841e5158f64ca951b94.jar" />
+    </item>
+
+</items>
